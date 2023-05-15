@@ -9,19 +9,19 @@
 
 <p>Berikut tampilan menggunakan browser</P>
 
-![Gambar 1](screenshoot/1.png)
+![Gambar 1](screenshot/1.png)
 
-![Gambar 2](screenshoot/2.png)
+![Gambar 2](screenshot/2.png)
 
-![Gambar 3](screenshoot/3.png)
+![Gambar 3](screenshot/3.png)
 
 <p>Berikut Lalu Tampilan versi Mobile/Phone</P>
 
-![Gambar 4](screenshoot/4.png)
+![Gambar 4](screenshot/4.png)
 
-![Gambar 5](screenshoot/5.png)
+![Gambar 5](screenshot/5.png)
 
-![Gambar 6](screenshoot/6.png)
+![Gambar 6](screenshot/6.png)
 
 
 
