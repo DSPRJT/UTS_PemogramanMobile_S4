@@ -28,7 +28,7 @@
 
 
 <p>
-    Catatan yang di atas merupakan gambaran satu aplikasi mulai dari menu login sampai menu merubah data yang di buat menggunakan kode dart dan fremwork flutter
+    Catatan yang di atas merupakan gambaran satu aplikasi mulai dari menu login lalu register dan menu home, jika ingin dilanjutkan untuk mendesign halaman home sudah saa siapkan untuk halaman home, program ini  di buat menggunakan kode dart dan fremwork flutter
 </p>
 
 <p>
